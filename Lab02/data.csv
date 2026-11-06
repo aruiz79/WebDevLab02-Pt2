@@ -1,0 +1,9 @@
+ticker,sector,predicted_return,conviction
+NVDA,Semiconductors,20,5
+MU,Semiconductors,25,3
+AMD,Semiconductors,30,4
+INTC,Semiconductors,-10,2
+AMZN,Cloud/AI Infrastructure,18,4
+MSFT,Software,22,4
+PLTR,Software,45,2
+AMD,Semiconductors,12,3

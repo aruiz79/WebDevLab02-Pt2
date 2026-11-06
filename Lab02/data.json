@@ -1,0 +1,37 @@
+{
+    "chart_title": "Yearly Returns of Top Tech/AI Stocks",
+    "source": "Yahoo Finance",
+    "data_points": [
+        {"ticker": "NVDA", "company": "Nvidia", "year": "2024", "price": 144.47},
+        {"ticker": "NVDA", "company": "Nvidia", "year": "2025", "price": 186.50},
+	{"ticker": "NVDA", "company": "Nvidia", "year": "2026 YTD", "price": 229.28},
+
+	{"ticker": "MU", "company": "Micron", "year": "2024", "price": 83.45},
+        {"ticker": "MU", "company": "Micron", "year": "2025", "price": 89.87},
+	{"ticker": "MU", "company": "Micron", "year": "2026 YTD", "price": 1029.00},
+
+	{"ticker": "AMZN", "company": "Amazon", "year": "2024", "price": 145.24},
+	{"ticker": "AMZN", "company": "Amazon", "year": "2025", "price": 226.50},
+	{"ticker": "AMZN", "company": "Amazon", "year": "2026 YTD", "price": 262.43},
+		
+	{"ticker": "SNDK", "company": "Sandisk", "year": "2024", "price": null},
+	{"ticker": "SNDK", "company": "Sandisk", "year": "2025", "price": 237.38},
+	{"ticker": "SNDK", "company": "Sandisk", "year": "2026 YTD", "price": 1581.82},
+
+	{"ticker": "AMD", "company": "AMD", "year": "2024", "price": 121.39},
+	{"ticker": "AMD", "company": "AMD", "year": "2025", "price": 214.16},
+	{"ticker": "AMD", "company": "AMD", "year": "2026 YTD", "price": 608.10},
+
+	{"ticker": "INTC", "company": "Intel", "year": "2024", "price": 46.89},
+	{"ticker": "INTC", "company": "Intel", "year": "2025", "price": 36.90},
+	{"ticker": "INTC", "company": "Intel", "year": "2026 YTD", "price": 104.70},
+
+	{"ticker": "NBIS", "company": "Nebius Group", "year": "2024", "price": 31.18},
+	{"ticker": "NBIS", "company": "Nebius Group", "year": "2025", "price": 83.71},
+	{"ticker": "NBIS", "company": "Nebius Group", "year": "2026 YTD", "price": 221.07},
+
+	{"ticker": "MSFT", "company": "Microsoft", "year": "2024", "price": 367.75},
+	{"ticker": "MSFT", "company": "Microsoft", "year": "2025", "price": 483.62},
+	{"ticker": "MSFT", "company": "Microsoft", "year": "2026 YTD", "price": 535.07}
+    ]
+}
